@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/locaChat/static/css/main.1fd794a1.css",
+    "main.js": "/locaChat/static/js/main.d4c74f96.js",
+    "static/js/787.87fcf0b9.chunk.js": "/locaChat/static/js/787.87fcf0b9.chunk.js",
+    "static/media/load.svg": "/locaChat/static/media/load.cc9b328ed86361c55b507498a3462edd.svg",
+    "index.html": "/locaChat/index.html",
+    "main.1fd794a1.css.map": "/locaChat/static/css/main.1fd794a1.css.map",
+    "main.d4c74f96.js.map": "/locaChat/static/js/main.d4c74f96.js.map",
+    "787.87fcf0b9.chunk.js.map": "/locaChat/static/js/787.87fcf0b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fd794a1.css",
+    "static/js/main.d4c74f96.js"
+  ]
+}
